@@ -1,0 +1,41 @@
+{
+  "passages": [],
+  "word_sets": [
+    {
+      "id": "c93561ac-9b36-4fc6-a407-9ef8e4d772cc",
+      "words": [
+        "River",
+        "Stone",
+        "Watch",
+        "Pencil",
+        "Phone",
+        "Candle",
+        "Road",
+        "Tree"
+      ],
+      "added_by": "AM",
+      "added_role": "doctor",
+      "created_at": "2026-02-28T09:52:46.869798"
+    },
+    {
+      "id": "2bb3633f-76b1-4765-a1f7-789152237f4f",
+      "words": [
+        "Lantern",
+        "Yatch",
+        "Falcon",
+        "Cloud",
+        "Mirror",
+        "Music",
+        "Clip",
+        "Blue",
+        "Dessert",
+        "Eraser",
+        "London",
+        "Island"
+      ],
+      "added_by": "AM",
+      "added_role": "doctor",
+      "created_at": "2026-02-28T10:54:04.879408"
+    }
+  ]
+}
